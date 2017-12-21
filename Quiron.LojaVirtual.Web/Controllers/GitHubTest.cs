@@ -8,6 +8,7 @@ namespace Quiron.LojaVirtual.Web.Controllers
     public class GitHubTest
     {
         //Teste
+        //teste
 
     }
 }
